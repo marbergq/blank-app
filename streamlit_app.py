@@ -21,7 +21,7 @@ def berakna_formansvarde(marknadsvalue, livslangd, service_kostnader, ranteniva)
     
     return formansvarde
 
-st.title("Cykelförmån Kalkylator")
+st.title("our cykelförmån")
 
 marknadsvalue = st.slider("Cykelns pris (ink. moms) (kr)", 10000, 50000, 25000, 1000)
 livslangd = 6
