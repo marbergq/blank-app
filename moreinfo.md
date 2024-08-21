@@ -1,4 +1,4 @@
-# Företagets förmånscykelprogram - Användarmanual
+# our förmånscykelprogram - Användarmanual
 
 Genom vårt förmånscykelprogram kan du som anställd finansiera inköp av en ny cykel genom månadsvis bruttolöneavdrag. På så sätt får du tillgång till en ny cykel till en lägre kostnad jämfört med att köpa cykeln själv.
 
