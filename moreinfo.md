@@ -4,7 +4,7 @@ Genom vårt förmånscykelprogram kan du som anställd finansiera inköp av en n
 
 ## Så här går det till:
 
-1. **Uppskatta din nettokostnad**: Gå in på [https://blank-app-bgbectbrute.streamlit.app/](snurra)] och fyll i uppgifter om din lön (skatt) och den cykel du är intresserad av. Kalkylatorn kommer visa din förväntade nettokostnad för cykeln efter skatt och avgifter.
+1. **Uppskatta din nettokostnad**: Gå in på [snurra](https://ourbike.streamlit.app/) och fyll i uppgifter om din lön (skatt) och den cykel du är intresserad av. Kalkylatorn kommer visa din förväntade nettokostnad för cykeln efter skatt och avgifter.
 
 2. **Hitta och välj din cykel**: Besök en Sportson-butik och välj ut den cykel du vill ha.
 
