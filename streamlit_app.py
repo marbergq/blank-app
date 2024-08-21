@@ -40,7 +40,7 @@ nettoloneavdrag = bruttoloneavdrag * skattesats
 besparing = nettoloneavdrag / marknadsvalue * 100
 
 st.write(f"Förmånsvärde för cykel: {formansvarde:.2f} kr / år")
-st.write(f"Totalt förmånsvärde för cykel: {total_formansvarde:.2f} kr över {livslangd.2f) år")
+st.write(f"Totalt förmånsvärde för cykel: {total_formansvarde:.2f} kr över {livslangd.2f} år")
 #st.write(f"Arbetsgivare skatt: {total_arbetsgivare_skatt:.2f} kr")
 st.write(f"Bruttolöneavdrag: {bruttoloneavdrag:.2f} kr")
 st.write(f"Ungefärlig nettkostnad för cykel (ish): {nettoloneavdrag:.2f} kr")
