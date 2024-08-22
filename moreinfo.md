@@ -10,7 +10,7 @@ Genom vårt förmånscykelprogram kan du som anställd finansiera inköp av en n
 
 3. **Beställ cykeln**: Kontakta Martin Bergqlin för att beställa den valda cykeln genom förmånscykelprogrammet.
 
-4. **Avtal och bruttolöneavdrag**: Du kommer behöva signera ett avtal som reglerar återbetalning via månadsvis bruttolöneavdrag. Löneavdraget sker automatiskt tills cykeln är fullt betald.
+4. **Avtal och bruttolöneavdrag**: Du kommer behöva signera ett avtal som reglerar återbetalning via månadsvis bruttolöneavdrag. Löneavdraget sker automatiskt på *nästkommande lön*, alternativt uppdelat på några enstaka månader beroende på vad man behöver.
 
 ## Ditt ansvar:
 
